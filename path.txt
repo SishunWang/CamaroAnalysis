@@ -1,0 +1,3 @@
+imagePath:./target.png
+filePath:
+folderPath:/Users/sishunw/Desktop/camaroAnalysis/folder
